@@ -1,0 +1,10 @@
+// DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
+{
+  "extensions": [
+    "GitHub.github-vscode-theme",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint"
+    // Additional Extensions Here
+  ]
+}
